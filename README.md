@@ -1,77 +1,215 @@
 # Hi, I'm Mohammad Razu 👋
 
-### Software Engineer | Backend Architecture | API & Real-Time Systems
+## Web Developer | Software Engineer | Backend & Real-Time Systems Specialist
 
-I am a Software Engineer based in Bangladesh, specializing in high-performance web architecture, secure backend systems, and scalable API proxy infrastructure. With deep expertise in PHP, server administration, and real-time data streaming, I engineer robust, production-ready platforms that handle complex logic safely and efficiently.
+I am a highly focused Web Developer and Software Engineer from Bangladesh, specializing in **PHP, Laravel, MySQL, JavaScript, Linux server management, API architecture, real-time web systems, and scalable platform development**.
 
-My primary focus is on building fault-tolerant systems—ranging from automated web hosting environments and financial settlement platforms to ultra-low-latency real-time applications.
-
----
-
-## 🚀 Domain Expertise & Engineering Focus
-
-I bridge the gap between complex backend logic and reliable server infrastructure. My practical experience includes building and maintaining:
-
-*   **Financial & Settlement Engines:** Developing complex wallet management, transaction histories, automated deposit/withdrawal workflows, and agent commission structures.
-*   **API & Data Aggregation:** Engineering third-party API proxies, sports market data feeds, and game provider integrations with precise synchronization.
-*   **Real-Time Communications:** Implementing low-latency signaling servers and peer-to-peer data channels using technologies like WebRTC and PeerJS.
-*   **Hosting & Infrastructure:** Managing Linux-based VPS environments, configuring Nginx web servers, and deploying customized hosting solutions. 
+My work is centered around building **secure, fast, maintainable, and production-ready digital platforms**. I enjoy solving real-world problems with clean backend logic, optimized databases, robust API communication, and reliable server-side architecture.
 
 ---
 
-## 🛠️ Core Technology Stack
+## 🚀 Professional Focus
 
-### Backend & Architecture
-*   **Languages & Frameworks:** PHP, Laravel, JavaScript
-*   **Databases:** MySQL (Query optimization, transaction-safe operations)
-*   **API Engineering:** RESTful APIs, Secure Proxy Architecture, Provider Response Handling
+I work with modern web technologies to build platforms that are:
 
-### DevOps & Server Administration
-*   **Environment:** Linux (Ubuntu), Nginx, PHP-FPM
-*   **Networking:** Cloudflare integration, Reverse Proxies, SSL/Domain Configuration
-*   **Deployment:** CI/CD workflows, Database migrations, Backup automation
+* Secure and production-ready
+* Fast, optimized, and scalable
+* Mobile-first and user-friendly
+* API-driven and automation-friendly
+* Designed for real-time data handling
+* Built with maintainable, clean code
 
-### Frontend & User Interface
-*   **Design:** Mobile-first responsive UI, Clean HTML/CSS
-*   **Interactivity:** AJAX live updates, Dynamic data rendering, Dashboard/Control Panel UX
+I have practical experience in developing complex systems such as:
+
+* Real-time API proxy systems
+* Payment and transaction workflow platforms
+* User wallet and balance management systems
+* Admin dashboards and control panels
+* Agent and commission-based platforms
+* Casino/game provider API integrations
+* Sports/exchange-style data platforms
+* SMS automation and server synchronization systems
+* High-traffic PHP/MySQL applications
+* Linux/Nginx-based server deployments
 
 ---
 
-## 🔐 Security & Observability
+## 🧠 Core Expertise
 
-I treat security and system stability as foundational requirements, not afterthoughts. My production standards include:
+### Backend Development
 
-*   **Access & Authentication:** Strict role-based access control (RBAC), secure session handling, and API key protection.
-*   **Request Integrity:** HMAC signature validation, timestamp-based protection, origin/domain validation, and CSRF mitigation.
-*   **Traffic Management:** Rate limiting, duplicate request prevention, and production-safe error masking.
-*   **Telemetry & Monitoring:** Implementing robust request/response logging, security event tracking, and observability tools (including OTLP ingestion) to maintain high uptime.
+* PHP application architecture
+* Laravel backend systems
+* REST API development
+* Secure authentication systems
+* Session and role-based access control
+* Wallet, balance, deposit, withdraw, and commission logic
+* API request validation and logging
+* MySQL query optimization
+* Transaction-safe database operations
+* Cron jobs and background automation
+
+---
+
+## 🎨 Frontend & User Interface
+
+* Mobile-first responsive UI
+* Admin dashboard design
+* Dynamic data rendering
+* AJAX-based live updates
+* Fast-loading frontend components
+* User-friendly control panels
+* Real-time data interface design
+* Clean HTML/CSS/JS implementation
+
+---
+
+## ⚡ Real-Time & API Engineering
+
+I focus on building reliable real-time communication layers and secure API connections, including:
+
+* Real-time data refresh systems
+* API proxy architecture
+* HMAC signature validation
+* Timestamp-based request protection
+* Origin and domain validation
+* Rate limiting
+* Request logging
+* Provider API response handling
+* Secure server-to-server communication
+* Live data synchronization
+
+---
+
+## 🖥️ DevOps & Server Management
+
+* Ubuntu server setup
+* Nginx configuration
+* PHP-FPM optimization
+* MySQL server tuning
+* SSL and domain configuration
+* Cloudflare integration
+* Reverse proxy setup
+* Server security headers
+* Production error handling
+* Log monitoring and debugging
+* Backup and deployment workflow
+
+---
+
+## 🔐 Security & Production Engineering
+
+I care deeply about security and production stability. My development approach includes:
+
+* Input validation and sanitization
+* Prepared SQL statements
+* CSRF protection
+* Secure session handling
+* Role-based permission control
+* API key protection
+* HMAC request signing
+* Rate limiting
+* Duplicate request prevention
+* Security event logging
+* Origin and referrer validation
+* Production-safe error responses
+* Database transaction safety
+
+---
+
+## 📊 System Observability & Optimization
+
+I build systems with monitoring and debugging in mind:
+
+* API request and response logs
+* Provider API performance tracking
+* Error tracing
+* User activity logs
+* Security logs
+* Database query optimization
+* Response time monitoring
+* Server-side debugging
+* Production issue investigation
+
+---
+
+## 🧩 What I Build
+
+### Platform Development
+
+* Business websites
+* Admin panels
+* SaaS-style dashboards
+* Agent management systems
+* Wallet-based platforms
+* Transaction management systems
+* Affiliate and commission systems
+
+### API & Integration
+
+* Payment gateway integration
+* Game provider API integration
+* SMS automation systems
+* Third-party API proxy systems
+* Secure client-server API communication
+* Real-time data fetching systems
+
+### Server & Deployment
+
+* VPS setup
+* Domain and SSL setup
+* Nginx hosting
+* Database migration
+* Production deployment
+* Performance optimization
+* Security hardening
 
 ---
 
 ## 📈 My GitHub Insights
 
-<!-- Paste your GitHub Readme Stats image links here -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITRAZU&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Razu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITRAZU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+---
+
+## 🎯 Current Learning & Growth Areas
+
+I am continuously improving my skills in:
+
+* Advanced Laravel architecture
+* Scalable API gateway design
+* Real-time application infrastructure
+* Server security and hardening
+* Database performance optimization
+* Android app backend integration
+* Payment automation systems
+* Cloud deployment workflows
+* Observability and telemetry
+* AI-assisted software development
 
 ---
 
-## 💡 Development Philosophy
+## 💡 My Development Philosophy
 
-*   **Secure by Default:** Every endpoint and transaction is built with zero-trust principles.
-*   **Built for Observability:** If a system breaks in production, the logs should immediately reveal why.
-*   **Scalable Architecture:** Code should not only solve today's problem but seamlessly handle tomorrow's traffic.
+I believe good software should be:
+
+* Simple to use
+* Secure by default
+* Easy to maintain
+* Fast under pressure
+* Cleanly written
+* Properly logged
+* Built for real users
+* Ready for production
+
+My goal is to build systems that do not only work today, but can also grow, scale, and remain stable in the future.
 
 ---
 
 ## 📫 Let's Connect
 
-*   🌐 **Website:** [about.itrazu.com](https://about.itrazu.com)
-*   📍 **Location:** Bangladesh 🇧🇩
-*   💬 **Ask me about:** PHP optimizations, Linux server clustering, API proxy scaling, and real-time backend architecture.
+* 🌐 Website: [about.itrazu.com](https://about.itrazu.com)
+* 📍 Location: Bangladesh 🇧🇩
+* 💼 Focus: Web Development, Backend Systems, API Architecture, Server Management
+* 💬 Ask me about: PHP, Laravel, MySQL, Linux, Nginx, API security, real-time systems, and scalable platform development
 
-<p align="center">
-  <i>"Writing secure, clean code to build the future of the web."</i>
-</p>
+---
+make it more professional 
