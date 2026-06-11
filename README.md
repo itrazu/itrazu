@@ -206,7 +206,7 @@ My goal is to build systems that do not only work today, but can also grow, scal
 
 ## 📫 Let's Connect
 
-* 🌐 Website: [itrazu.com](https://itrazu.com)
+* 🌐 Website: [about.itrazu.com](https://about.itrazu.com)
 * 📍 Location: Bangladesh 🇧🇩
 * 💼 Focus: Web Development, Backend Systems, API Architecture, Server Management
 * 💬 Ask me about: PHP, Laravel, MySQL, Linux, Nginx, API security, real-time systems, and scalable platform development
