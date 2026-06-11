@@ -1,64 +1,214 @@
-# Hi there, I'm Mohammad Razu! 👋
-### Professional Web Developer & Software Engineer
+# Hi, I'm Mohammad Razu 👋
 
-Highly driven and detail-oriented Web Developer with deep expertise in building scalable web architectures, managing robust server environments, and engineering high-performance digital platforms. Focused on writing clean, maintainable code and optimizing real-time data streaming and telemetry systems.
+## Web Developer | Software Engineer | Backend & Real-Time Systems Specialist
 
----
+I am a highly focused Web Developer and Software Engineer from Bangladesh, specializing in **PHP, Laravel, MySQL, JavaScript, Linux server management, API architecture, real-time web systems, and scalable platform development**.
 
-## 🚀 Core Expertise & Technologies
-
-### 🌐 Backend & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-</p>
-
-### 🛠️ Frontend & Real-Time Communications
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
-</p>
-
-### 🖥️ DevOps & Server Administration
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-1B497D?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OTLP" />
-</p>
+My work is centered around building **secure, fast, maintainable, and production-ready digital platforms**. I enjoy solving real-world problems with clean backend logic, optimized databases, robust API communication, and reliable server-side architecture.
 
 ---
 
-## 📊 My GitHub Insights
+## 🚀 Professional Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITRAZU&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Razu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITRAZU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+I work with modern web technologies to build platforms that are:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITRAZU&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+* Secure and production-ready
+* Fast, optimized, and scalable
+* Mobile-first and user-friendly
+* API-driven and automation-friendly
+* Designed for real-time data handling
+* Built with maintainable, clean code
+
+I have practical experience in developing complex systems such as:
+
+* Real-time API proxy systems
+* Payment and transaction workflow platforms
+* User wallet and balance management systems
+* Admin dashboards and control panels
+* Agent and commission-based platforms
+* Casino/game provider API integrations
+* Sports/exchange-style data platforms
+* SMS automation and server synchronization systems
+* High-traffic PHP/MySQL applications
+* Linux/Nginx-based server deployments
 
 ---
 
-## ⚡ What I Do
-* 🛠️ **System Architecture:** Designing low-latency API proxy channels and handling server optimization.
-* 🔄 **Real-Time Applications:** Implementing ultra-responsive communication architectures via PeerJS and signaling nodes.
-* 📦 **E-Commerce & Platform Operations:** Customizing complex payment workflows, commission protocols, and digital marketplace engines.
-* 📈 **System Observability:** Setting up telemetry monitoring paths to guarantee 99.9% application uptime.
+## 🧠 Core Expertise
+
+### Backend Development
+
+* PHP application architecture
+* Laravel backend systems
+* REST API development
+* Secure authentication systems
+* Session and role-based access control
+* Wallet, balance, deposit, withdraw, and commission logic
+* API request validation and logging
+* MySQL query optimization
+* Transaction-safe database operations
+* Cron jobs and background automation
 
 ---
 
-## 📫 Let's Connect!
-* 💼 **Website:** [itrazu.com](https://itrazu.com) (or link your portfolio domain here)
-* 🗺️ **Location:** Bangladesh 🇧🇩
-* 💬 Ask me about **PHP optimizations, Linux server clustering, and API scaling.**
+## 🎨 Frontend & User Interface
 
-<p align="center">
-  <i>"Writing secure, clean code to build the future of the web."</i>
-</p>
+* Mobile-first responsive UI
+* Admin dashboard design
+* Dynamic data rendering
+* AJAX-based live updates
+* Fast-loading frontend components
+* User-friendly control panels
+* Real-time data interface design
+* Clean HTML/CSS/JS implementation
+
+---
+
+## ⚡ Real-Time & API Engineering
+
+I focus on building reliable real-time communication layers and secure API connections, including:
+
+* Real-time data refresh systems
+* API proxy architecture
+* HMAC signature validation
+* Timestamp-based request protection
+* Origin and domain validation
+* Rate limiting
+* Request logging
+* Provider API response handling
+* Secure server-to-server communication
+* Live data synchronization
+
+---
+
+## 🖥️ DevOps & Server Management
+
+* Ubuntu server setup
+* Nginx configuration
+* PHP-FPM optimization
+* MySQL server tuning
+* SSL and domain configuration
+* Cloudflare integration
+* Reverse proxy setup
+* Server security headers
+* Production error handling
+* Log monitoring and debugging
+* Backup and deployment workflow
+
+---
+
+## 🔐 Security & Production Engineering
+
+I care deeply about security and production stability. My development approach includes:
+
+* Input validation and sanitization
+* Prepared SQL statements
+* CSRF protection
+* Secure session handling
+* Role-based permission control
+* API key protection
+* HMAC request signing
+* Rate limiting
+* Duplicate request prevention
+* Security event logging
+* Origin and referrer validation
+* Production-safe error responses
+* Database transaction safety
+
+---
+
+## 📊 System Observability & Optimization
+
+I build systems with monitoring and debugging in mind:
+
+* API request and response logs
+* Provider API performance tracking
+* Error tracing
+* User activity logs
+* Security logs
+* Database query optimization
+* Response time monitoring
+* Server-side debugging
+* Production issue investigation
+
+---
+
+## 🧩 What I Build
+
+### Platform Development
+
+* Business websites
+* Admin panels
+* SaaS-style dashboards
+* Agent management systems
+* Wallet-based platforms
+* Transaction management systems
+* Affiliate and commission systems
+
+### API & Integration
+
+* Payment gateway integration
+* Game provider API integration
+* SMS automation systems
+* Third-party API proxy systems
+* Secure client-server API communication
+* Real-time data fetching systems
+
+### Server & Deployment
+
+* VPS setup
+* Domain and SSL setup
+* Nginx hosting
+* Database migration
+* Production deployment
+* Performance optimization
+* Security hardening
+
+---
+
+## 📈 My GitHub Insights
+
+---
+
+## 🎯 Current Learning & Growth Areas
+
+I am continuously improving my skills in:
+
+* Advanced Laravel architecture
+* Scalable API gateway design
+* Real-time application infrastructure
+* Server security and hardening
+* Database performance optimization
+* Android app backend integration
+* Payment automation systems
+* Cloud deployment workflows
+* Observability and telemetry
+* AI-assisted software development
+
+---
+
+## 💡 My Development Philosophy
+
+I believe good software should be:
+
+* Simple to use
+* Secure by default
+* Easy to maintain
+* Fast under pressure
+* Cleanly written
+* Properly logged
+* Built for real users
+* Ready for production
+
+My goal is to build systems that do not only work today, but can also grow, scale, and remain stable in the future.
+
+---
+
+## 📫 Let's Connect
+
+* 🌐 Website: [itrazu.com](https://itrazu.com)
+* 📍 Location: Bangladesh 🇧🇩
+* 💼 Focus: Web Development, Backend Systems, API Architecture, Server Management
+* 💬 Ask me about: PHP, Laravel, MySQL, Linux, Nginx, API security, real-time systems, and scalable platform development
+
+---
